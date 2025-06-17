@@ -1,4 +1,4 @@
-# 🧠 segmentation-utils
+# 🧠 Segmentation Utils
 
 A collection of simple and reusable Python scripts for image segmentation tasks — including mask processing, RGB color extraction, visualization, metrics, and more.
 
